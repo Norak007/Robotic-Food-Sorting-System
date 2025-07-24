@@ -20,9 +20,9 @@ This robot sorts food boxes placed on the ground. It uses a barcode to know the 
 
 - If the barcode cannot be read or an issue is detected:
 
-- The item is redirected to a special "obstacle" conveyor.
+  The item is redirected to a special "obstacle" conveyor.
 
-- A notification is sent to the supervisor.
+  A notification is sent to the supervisor.
 
 - The robot repeats the process for the next item.
 
